@@ -1,0 +1,37 @@
+body {
+  background-image: url("ttps://wallpaperscraft.com/image/space_flight_sky_stars_82970_1920x1080.jpg");
+}
+header {
+  text-align: 50%;
+  padding:50px;
+  margin: 10px auto;
+}
+ul {
+  text-align: center;
+  display: block;
+   height: 20px;
+   max-width: 400px ;
+  border: 3px double black;
+  border-radius: 500px;
+  margin:10px auto;
+}
+li {
+  left:10px;
+  font-family:monospace;
+  display: inline;
+  list-style-type:none;
+  padding:5px;
+  margin: 10 auto;
+}
+a {
+  color:black;
+  text-decoration: none;
+}
+a:hover {
+  color:gray;
+  opacity: .6;
+  text-decoration: line-through;
+}
+.soundcloud {
+  opacity:.7;
+}
